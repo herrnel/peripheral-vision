@@ -1,4 +1,4 @@
-# periph-cli
+# Peripheral-Vision
 
 Cross-platform Rust CLI to access device peripherals across Unix, Linux, Windows, and WSL.
 
